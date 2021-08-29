@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Firebase_login_reg_matrial</string>
+    <string name="client_id">104647666805-1j97r7s55lslmtnqsl5f6encv2bj916r.apps.googleusercontent.com</string>
+    <string name="str_signup">Sign Up</string>
+    <string name="str_signups">Are you new User!</string>
+    <string name="str_login">Login</string>
+    <string name="str_logins">Are you already sign up!!</string>
+    <string name="email">Enter Email Here...</string>
+    <string name="password">Enter Password Here...</string>
+    <string name="com_password">Enter Confirm Password Here...</string>
+    <string name="str_submit">Submit</string>
+    <string name="str_other">Other</string>
+    <string name="str_forget">Forget Password?</string>
+    <string name="str_welcome">Welcome to My App</string>
+    <string name="log_out">log out</string>
+    <string name="hello_happy">Hello Happy!</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="str_next">Next</string>
+    <string name="str_previous">Previous</string>
+    <string name="home">Home</string>
+</resources>
